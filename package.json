@@ -1,0 +1,8 @@
+{
+  "name": "fluid-contact-api",
+  "version": "1.0.0",
+  "description": "Fluid contact API is a simple address book API that helps organise your contacts and their details",
+  "main": "index.js",
+  "author": "Destiny Ajakaiye",
+  "license": "MIT"
+}
