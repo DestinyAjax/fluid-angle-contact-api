@@ -1,3 +1,11 @@
 {
-    "watch": ["index.js","server/"]
+    "watch": [
+        "index.js",
+        "config/",
+        "controllers/",
+        "models/",
+        "migrations/",
+        "routes/",
+        "services/"
+    ]
 }
